@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Снимок экрана (2981)" src="https://github.com/user-attachments/assets/04d1d352-3582-4b0f-b15d-c0dd07ec27e0" /># Домашнее задание к занятию «Установка Kubernetes»
+# Домашнее задание к занятию «Установка Kubernetes»
 
 ## ` Дмитрий Климов `
 
