@@ -76,7 +76,7 @@ resource "yandex_compute_instance" "node" {
 
 ### Для развертывания `Kubernetes` выбран инструмент `Kubespray`. Конфигурация `inventory.ini` определяет роли узлов: `kube_control_plane` (управление), `etcd` (база данных) и `kube_node` (воркеры).
 
-```yaml
+```ini
 [all]
 master  ansible_host=ВНЕШНИЙ_IP_MASTER ip=192.168.1.10
 worker1 ansible_host=ВНЕШНИЙ_IP_W1 ip=192.168.1.11
